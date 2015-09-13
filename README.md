@@ -1,2 +1,17 @@
-# tcltk-gui-starter
-A skeleton project to write Tcl/Tk + snit based GUI Apps.
+# tcltk-gui-starters-ja
+
+Tcl/Tk と snit で、サーバー管理用の GUI アプリを
+雑にでっち上げたい時のための、
+雛形になりそうなスクリプトをここに集めて行きます。
+
+## お断り
+
+今の時代に Tcl/Tk を使って新たにアプリを書き始めることは、
+時代錯誤とみなされるリスクがあります。
+
+これから作ろうとするものが、果たして本当に Tcl/Tk で書くべきものか、
+トレードオフを自分で判断できる人だけ、この道をお進み下さい。
+
+# 一覧
+
+* [その1](01/snitex1.tcl) snit + BWidget
