@@ -3,6 +3,8 @@
 # the next line restarts using wish \
     exec wish -encoding utf-8 "$0" ${1+"$@"}
 
+# See: https://github.com/hkoba/tcltk-gui-starters-ja
+
 package require Tcl 8.5; # or later.
 package require snit
 package require BWidget; # Very old, but stable and still useful.
